@@ -1,0 +1,51 @@
+body{
+    margin: 0px;
+    font-family: sans-serif;
+}
+.tasbeeh{
+    text-align: -webkit-center;
+    margin: 50px 0px;
+}
+.tasbeeh .upper{
+    padding-top: 60px;
+    background-color: red;
+    height: 250px;
+    border-radius: 100px;
+    width: 250px;
+}
+.tasbeeh .upper p{
+    background-color: white;
+    width: 80%;
+    height: 34px;
+    border-radius: 60px;
+    border: 2px solid black;
+}
+.tasbeeh .upper h6{
+    display: inline-block;
+    margin: 0px 184px 0px 0px;
+    font-size: 20px;
+    color: white;
+}
+.tasbeeh .upper .reset{
+    margin: 3px 185px 0px 0px;
+    display: inline-block;
+    padding: 15px 15px;
+    border-radius: 30px;
+    border: 2px solid black;
+}
+.tasbeeh .lower{
+    background-color: black;
+    height: 180px;
+    border-radius: 100px;
+    width: 187px;
+    margin: -93px 0px 0px 0px;
+}
+.tasbeeh .lower .count{
+    margin: 35px 0px 0px 0px;
+    padding: 55px;
+    border-radius: 100px;
+    border: 2px solid red;
+    font-size: 20px;
+    color: red;
+    font-weight: 600;
+}
